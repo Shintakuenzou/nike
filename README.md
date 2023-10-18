@@ -1,5 +1,5 @@
 # Nike Landing Page
-> Este é um projeto de landing page responsiva de tênis da marca Nike, um projeto simples para treinar e aprimorar minhas habilidades. Neste projeto utilizei React e explorei algumas funcionalidades do TailwindCSS para criar uma página que se adapte a diferentes tamanhos de tela e dispositivos, mantendo a identidade visual da marca e oferecendo uma experiência agradável ao usuário. Você pode ver o projeto em ação [aqui]
+> Este é um projeto de landing page responsiva de tênis da marca Nike, um projeto simples para treinar e aprimorar minhas habilidades. Neste projeto utilizei React e explorei algumas funcionalidades do TailwindCSS para criar uma página que se adapte a diferentes tamanhos de tela e dispositivos, mantendo a identidade visual da marca e oferecendo uma experiência agradável ao usuário. Você pode ver o projeto em ação: <a href="https://shintakuenzou.github.io/nike/" target="_blank">https://shintakuenzou.github.io/nike/</a>
 
 ## Recursos e melhorias
 - [x] Responsividade para todas as dimensões de dispositivo.
